@@ -8,7 +8,7 @@ fontes de referências.
 
 ## Sumário
 
-- Lógica de Programação
+- [Lógica de Programação](https://github.com/learnermap/learning-logic)
 - Controle de versão
 - Tecnologias Web:
   - Protocolos (HTTP)
