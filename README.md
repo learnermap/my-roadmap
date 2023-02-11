@@ -12,7 +12,7 @@ fontes de referências.
 - Controle de versão
 - Tecnologias Web:
   - Protocolos (HTTP)
-  - Marcação e estilo (HTML, CSS)
+  - [Marcação e estilo (HTML, CSS)](https://github.com/learnermap/learning-html-css)
   - Frontend (JS)
 - Linguagem de programação orientada a objetos (Java/Python)
   - Boas práticas: testes, etc
