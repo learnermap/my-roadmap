@@ -8,11 +8,11 @@ fontes de referências.
 
 ## Sumário
 
-- [Lógica de Programação](https://github.com/learnermap/learning-logic)
-- Controle de versão
+- [Lógica de Programação](https://github.com/learnermap/learning-logic) :heavy_check_mark:
+- [Controle de versão](https://github.com/learnermap/learning-git-github) :heavy_check_mark:
 - Tecnologias Web:
   - Protocolos (HTTP)
-  - [Marcação e estilo (HTML, CSS)](https://github.com/learnermap/learning-html-css)
+  - [Marcação e estilo (HTML, CSS)](https://github.com/learnermap/learning-html-css) :heavy_check_mark:
   - Frontend (JS)
 - Linguagem de programação orientada a objetos (Java/Python)
   - Boas práticas: testes, etc
