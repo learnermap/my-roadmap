@@ -11,7 +11,7 @@ fontes de referências.
 - [Lógica de Programação](https://github.com/learnermap/learning-logic) :heavy_check_mark:
 - [Controle de versão](https://github.com/learnermap/learning-git-github) :heavy_check_mark:
 - Tecnologias Web:
-  - Protocolos (HTTP)
+  - [Protocolos (HTTP)](https://github.com/learnermap/learning-http) :heavy_check_mark:
   - [Marcação e estilo (HTML, CSS)](https://github.com/learnermap/learning-html-css) :heavy_check_mark:
   - Frontend (JS)
 - Linguagem de programação orientada a objetos (Java/Python)
